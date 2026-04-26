@@ -1,3 +1,2 @@
-Calculadora Básica: Suma y Resta
-
-Corrección: Soporte para números negativos activado
+Calculadora Básica: Suma, Resta y Multiplicación.
+Corrección: Soporte para números negativos activado.
